@@ -1,0 +1,15 @@
+.env
+.DS_Store
+tmp/
+bin/
+*.log
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# IDE
+.vscode/
+.idea/
